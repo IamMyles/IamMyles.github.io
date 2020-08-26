@@ -1,11 +1,11 @@
 # Site settings
 author: Myles Janik
-title: 
+title: Myles Flatiron Blog
 header-img: img/home-bg.png
 email: mylesjanik@gmail.com
 copyright_name: Myles Janik
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  IamMyles
